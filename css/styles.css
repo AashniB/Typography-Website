@@ -6,8 +6,8 @@ body {
 
 h1 {
     font-size: 56px;
-    color: rgb(18, 18, 74, .2);
-    text-shadow: 2x 2x rgb(9, 18, 59);
+    color: rgb(18, 18, 74,);
+    text-shadow: 2x 2x rgba(6, 13, 44, 0.3);
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
