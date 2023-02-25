@@ -25,7 +25,8 @@ p {
      padding-right: 10px;
      padding-bottom: 100px;
      padding-left: 10px;
-     background-color: rgb(149, 161, 201); 
+     background-color: rgb(149, 161, 201);
+     background-image: url("https://images.pexels.com/photos/144429/pexels-photo-144429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"); 
 }
 
 .main-container {
