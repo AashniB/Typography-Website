@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgba(255, 255, 255, .3);
+    background-color: rgba(151, 210, 217, 0.3);
     margin: 0;
 }
 
@@ -36,5 +36,9 @@ p {
 }
 
 footer {
-
+    background-color: rgb(149, 161, 201);
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 20px;
+    
 }
