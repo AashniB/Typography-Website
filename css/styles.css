@@ -51,10 +51,22 @@ footer {
 
 }
 
+.article-left div {
+    width: 45%;
+}
+
+.article-right div {
+    width: 45%;
+}
+
+
+
 .article-left,
 .article-right {
     display: flex;
+    justify-content: space-evenly;
 }
+
 .article-left {
     flex-direction: row;
 }
